@@ -35,7 +35,7 @@ class ChatMessage extends StatelessWidget {
                         style: TextStyle(fontSize: 18.0),
                       ),
                 Text(
-                  data['sernderName'],
+                  data['senderName'],
                   style: TextStyle(
                     fontSize: 13.0,
                     fontWeight: FontWeight.w500,
